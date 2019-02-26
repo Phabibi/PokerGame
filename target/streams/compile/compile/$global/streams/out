@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\parsahabibi\Desktop\PokerGame\src\main\scala\Classes.scala:57:12: value ++ is not a member of Card[0m
+[0m[[0m[31merror[0m] [0m[0m				arr(0) ++ card_arr[0m
+[0m[[0m[31merror[0m] [0m[0m				       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
